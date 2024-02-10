@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/IntroApp/static/css/main.851de839.css",
+    "main.js": "/IntroApp/static/js/main.62c878bb.js",
+    "static/js/592.3c850e0f.chunk.js": "/IntroApp/static/js/592.3c850e0f.chunk.js",
+    "static/media/project-bg-2.jpeg": "/IntroApp/static/media/project-bg-2.b03fd96c98fb80a1e955.jpeg",
+    "index.html": "/IntroApp/index.html",
+    "main.851de839.css.map": "/IntroApp/static/css/main.851de839.css.map",
+    "main.62c878bb.js.map": "/IntroApp/static/js/main.62c878bb.js.map",
+    "592.3c850e0f.chunk.js.map": "/IntroApp/static/js/592.3c850e0f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.851de839.css",
+    "static/js/main.62c878bb.js"
+  ]
+}
